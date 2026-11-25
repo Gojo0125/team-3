@@ -25,13 +25,16 @@ body {
 
 .card-name {
   /* งาน 3: ตกแต่งชื่อในการ์ด เช่น color, font-size */
-
+ color: Blue;
+ font-size: 16px;
+ 
 
 }
 
 button {
   /* งานเสริม: ตกแต่งปุ่ม */
   margin-top: 16px;
+  color: Blue;
 }
 
 /* โหมดมืด: script.js จะเพิ่ม class "dark" ให้ body */
