@@ -21,6 +21,7 @@ body {
   border: 1px solid gray;
   border-radius: 67 px;
   padding: 8px;
+  background-color: Yellow;
 }
 
 .card-name {
